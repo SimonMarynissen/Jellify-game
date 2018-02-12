@@ -1,0 +1,8 @@
+Aquino-Demo.ttf (not used in code)
+which can be found at https://www.dafont.com/aquino.font
+Bender_Inline.ttf (not used in code)
+Bender_Solid.ttf
+Bender_Thin.ttf (not used in code)
+which can be found at http://www.losttype.com/font/?name=bender
+
+Fonts are not added, since they are not allowed to be redistributed.
